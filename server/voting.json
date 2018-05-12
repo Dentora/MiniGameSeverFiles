@@ -1,0 +1,816 @@
+{
+  "Maps": [
+    {
+      "displayName": "Duck Hunt v2",
+      "mapName": "Duck Hunt v2"
+    },
+    {
+      "displayName": "Infestation",
+      "mapName": "Infestation"
+    },
+    {
+      "displayName": "Canopy",
+      "mapName": "Canopy"
+    },
+    {
+      "displayName": "Sandtrap XL",
+      "mapName": "Sandtrap XL"
+    },
+    {
+      "displayName": "Speed Halo",
+      "mapName": "Speed"
+    },
+    {
+      "displayName": "The Gauntlet",
+      "mapName": "The Gauntlet"
+    },
+    {
+      "displayName": "Bull Pen 1.0",
+      "mapName": "Bull Pen 1.0"
+    },
+    {
+      "displayName": "Jenga V2",
+      "mapName": "Jenga V2"
+    },
+    {
+      "displayName": "Pirate Raid",
+      "mapName": "Pirate Raid"
+    },
+    {
+      "displayName": "Infested House",
+      "mapName": "Infested House"
+    },
+    {
+      "displayName": "Neurotoxicity 2",
+      "mapName": "Neurotoxicity 2"
+    },
+    {
+      "displayName": "Laser Tag - Pit",
+      "mapName": "Laser Tag - Pit"
+    },
+    {
+      "displayName": "Pirate wars",
+      "mapName": "Pirate wars"
+    },
+    {
+      "displayName": "Haunted Nursery",
+      "mapName": "Haunted Nursery"
+    },
+    {
+      "displayName": "Minas Tirith v7",
+      "mapName": "Minas Tirith v7"
+    },
+    {
+      "displayName": "2 Ways Out",
+      "mapName": "2 Ways Out"
+    },
+    {
+      "displayName": "Rat's Nest",
+      "mapName": "Rat's Nest"
+    },
+    {
+      "displayName": "Speedhalla",
+      "mapName": "Speedhalla"
+    },
+    {
+      "displayName": "Tetris v0.91",
+      "mapName": "Tetris v0.91"
+    },
+    {
+      "displayName": "Demo Derby 1.3",
+      "mapName": "Demo Derby 1.3"
+    },
+    {
+      "displayName": "HP Beach Resort",
+      "mapName": "HP Beach Resort"
+    },
+    {
+      "displayName": "Your Lawn",
+      "mapName": "Your Lawn"
+    },
+    {
+      "displayName": "Flag Run",
+      "mapName": "Flag Run"
+    },
+    {
+      "displayName": "Vent Outbreak",
+      "mapName": "Vent Outbreak"
+    },
+    {
+      "displayName": "HP Hightops",
+      "mapName": "HP Hightops"
+    },
+    {
+      "displayName": "Drive or Die+",
+      "mapName": "Drive or Die+"
+    },
+    {
+      "displayName": "FatKidOrigins",
+      "mapName": "FatKidOrigins"
+    },
+    {
+      "displayName": "FatKidRevenge",
+      "mapName": "FatKidRevenge"
+    },
+    {
+      "displayName": "Island Wars",
+      "mapName": "Island Wars"
+    },
+    {
+      "displayName": "Siege v2.0",
+      "mapName": "Siege v2.0"
+    },
+    {
+      "displayName": "Joust! V1",
+      "mapName": "Joust! V1"
+    },
+    {
+      "displayName": "Train Wreck",
+      "mapName": "Train Wreck"
+    },
+    {
+      "displayName": "SHARKS!",
+      "mapName": "SHARKS!"
+    },
+    {
+      "displayName": "Duck Hunt Arena",
+      "mapName": "Duck Hunt Arena"
+    },
+    {
+      "displayName": "The Train",
+      "mapName": "The Train"
+    },
+    {
+      "displayName": "Halo",
+      "mapName": "Halo"
+    },
+    {
+      "displayName": "Kiddie Lane",
+      "mapName": "Kiddie Lane"
+    },
+    {
+      "displayName": "Left4Dead_Day",
+      "mapName": "Left4Dead_Day"
+    },
+    {
+      "displayName": "Left4Dead_Night",
+      "mapName": "Left4Dead_Night"
+    },
+    {
+      "displayName": "Bridge Battle",
+      "mapName": "Bridge Battle"
+    },
+    {
+      "displayName": "LSD Race Track",
+      "mapName": "LSD Race Track"
+    },
+    {
+      "displayName": "Replicant Road",
+      "mapName": "Replicant Road"
+    },
+    {
+      "displayName": "Ghostbusters!V2",
+      "mapName": "Ghostbusters!V2"
+    },
+    {
+      "displayName": "Laser Tag Arena",
+      "mapName": "Laser Tag Arena"
+    },
+    {
+      "displayName": "Skycastle 6.1RB",
+      "mapName": "Skycastle 6.1RB"
+    },
+    {
+      "displayName": "Zombie Maze V2",
+      "mapName": "Zombie Maze V2"
+    },
+    {
+      "displayName": "Ground Zero V3",
+      "mapName": "Ground Zero V3"
+    },
+    {
+      "displayName": "Driver Classic",
+      "mapName": "Driver Classic"
+    }
+  ],
+  "Types": [
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "FatKidOrigins",
+          "mapName": "FatKidOrigins"
+        },
+        {
+          "displayName": "FatKidRevenge",
+          "mapName": "FatKidRevenge"
+        },
+        {
+          "displayName": "Zombie Maze V2",
+          "mapName": "Zombie Maze V2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Fat Kid",
+      "typeName": "Fat Kid"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Duck Hunt v2",
+          "mapName": "Duck Hunt v2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Duck Hunt V2",
+      "typeName": "Duck Hunt V2"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Sandtrap XL",
+          "mapName": "Sandtrap XL"
+        },
+        {
+          "displayName": "Drive or Die+",
+          "mapName": "Drive or Die+"
+        },
+        {
+          "displayName": "Driver Classic",
+          "mapName": "Driver Classic"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Drive or Die",
+      "typeName": "Drive or Die"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Infestation",
+          "mapName": "Infestation"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Pest Control",
+      "typeName": "Pest Control"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Canopy",
+          "mapName": "Canopy"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "AGLA Grifball",
+      "typeName": "AGLA Grifball"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Speed Halo",
+          "mapName": "Speed"
+        },
+        {
+          "displayName": "Speedhalla",
+          "mapName": "Speedhalla"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Speed Halo",
+      "typeName": "Speed Halo"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "The Gauntlet",
+          "mapName": "The Gauntlet"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Heroes Running",
+      "typeName": "Heroes Running"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Bull Pen 1.0",
+          "mapName": "Bull Pen 1.0"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Bull Pen 1.1",
+      "typeName": "Bull Pen 1.1"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Jenga V2",
+          "mapName": "Jenga V2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Jenga Tower V2",
+      "typeName": "Jenga Tower V2"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pirate Raid",
+          "mapName": "Pirate Raid"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Pirate Raid Var",
+      "typeName": "Pirate Raid Var"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Infested House",
+          "mapName": "Infested House"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Exterminator",
+      "typeName": "Exterminator"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Neurotoxicity",
+          "mapName": "Neurotoxicity"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Neurotoxicity",
+      "typeName": "Neurotoxicity"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Laser Tag - Pit",
+          "mapName": "Laser Tag - Pit"
+        },
+        {
+          "displayName": "Laser Tag Arena",
+          "mapName": "Laser Tag Arena"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Laser Tag",
+      "typeName": "Laser Tag"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pirate wars",
+          "mapName": "Pirate wars"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "ShiverMeTimbers",
+      "typeName": "ShiverMeTimbers"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Minas Tirith v7",
+          "mapName": "Minas Tirith v7"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Minas Tirith v7",
+      "typeName": "Minas Tirith v7"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Haunted Nursery",
+          "mapName": "Haunted Nursery"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Zombabies",
+      "typeName": "Zombabies"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "2 Ways Out",
+          "mapName": "2 Ways Out"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "2 Ways Out",
+      "typeName": "2 Ways Out"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Rat's Nest",
+          "mapName": "Rat's Nest"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Tank",
+      "typeName": "Tank"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "SHARKS!",
+          "mapName": "SHARKS!"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "SWIM OR DIE",
+      "typeName": "SWIM OR DIE"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Tetris v0.91",
+          "mapName": "Tetris v0.91"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Tetris - Yangjo",
+      "typeName": "Tetris - Yangjo"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Flag Run",
+          "mapName": "Flag Run"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Flag Run",
+      "typeName": "Flag Run"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Your Lawn",
+          "mapName": "Your Lawn"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Gophers",
+      "typeName": "Gophers"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Demo Derby 1.3",
+          "mapName": "Demo Derby 1.3"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Rent a Car",
+      "typeName": "Rent a Car"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Vent Outbreak",
+          "mapName": "Vent Outbreak"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Vent Outbreak",
+      "typeName": "Vent Outbreak"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "HP Beach Resort",
+          "mapName": "HP Beach Resort"
+        },
+        {
+          "displayName": "HP Hightops",
+          "mapName": "HP Hightops"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Stan HotPursuit",
+      "typeName": "Stan HotPursuit"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Island Wars",
+          "mapName": "Island Wars"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Island Wars",
+      "typeName": "Island Wars"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Siege v2.0",
+          "mapName": "Siege v2.0"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Siege v2.0",
+      "typeName": "Siege v2.0"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Joust! V1",
+          "mapName": "Joust! V1"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Jousting GM",
+      "typeName": "Jousting GM"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Train Wreck",
+          "mapName": "Train Wreck"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Train Wreck",
+      "typeName": "Train Wreck"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "The Train",
+          "mapName": "The Train"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "The Train",
+      "typeName": "The Train"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Duck Hunt Arena",
+          "mapName": "Duck Hunt Arena"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Duck Hunt Arena",
+      "typeName": "Duck Hunt Arena"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Halo",
+          "mapName": "Halo"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Halo",
+      "typeName": "Halo"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Kiddie Lane",
+          "mapName": "Kiddie Lane"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Ice Cream Man",
+      "typeName": "Ice Cream Man"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Left4Dead_Day",
+          "mapName": "Left4Dead_Day"
+        },
+        {
+          "displayName": "Left4Dead_Night",
+          "mapName": "Left4Dead_Night"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "L4DSurvival(16)",
+      "typeName": "L4DSurvival"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Bridge Battle",
+          "mapName": "Bridge Battle"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Shotty Snipes",
+      "typeName": "Shotty Snipes"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "LSD Race Track",
+          "mapName": "LSD Race Track"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0"
+      ],
+      "displayName": "LSD Race",
+      "typeName": "LSD Race"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Replicant Road",
+          "mapName": "Replicant Road"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 8"
+      ],
+      "displayName": "RocketRacetrack(16)",
+      "typeName": "RocketRacetrack"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Ground Zero V3",
+          "mapName": "Ground Zero V3"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Ground Zero V3",
+      "typeName": "Ground Zero V3"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Summer Solstice",
+          "mapName": "Summer Solstice"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Team Fiesta",
+      "typeName": "Team Fiesta"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Skycastle 6.1RB",
+          "mapName": "Skycastle 6.1RB"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Skycastle Plus",
+      "typeName": "Skycastle Plus"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# ElDewrito server ban list
+# Players matching the filters in this file will not be allowed to connect to your server.
+
+# IPv4 address bans
+# Format: ip XXX.XXX.XXX.XXX
+ip 149.169.248.5
+ip 64.53.175.159
+ip 108.4.130.244
+ip 173.239.236.32
+ip 23.241.95.116
+ip 173.239.228.104
+ip 196.52.39.10
+ip 81.174.170.98
+ip 73.211.156.66
+ip 180.181.140.60
+ip 24.241.205.211
+ip 69.145.77.38

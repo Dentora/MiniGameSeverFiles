@@ -1,0 +1,31 @@
+{
+  "playlist": [
+    {
+      "gametype": {
+        "commands": [
+          "Server.SprintEnabled 0",
+          "Server.NumberOfTeams 2"
+        ],
+        "displayName": "Laser Tag",
+        "typeName": "Laser Tag"
+      },
+      "map": {
+        "displayName": "Laser Tag - Pit",
+        "mapName": "Laser Tag - Pit"
+      }
+    },
+    {
+      "gametype": {
+        "commands": [
+          "Server.SprintEnabled 0"
+        ],
+        "displayName": "Laser Tag",
+        "typeName": "Laser Tag"
+      },
+      "map": {
+        "displayName": "Laser Tag Arena",
+        "mapName": "Laser Tag Arena"
+      }
+    }
+  ]
+}
