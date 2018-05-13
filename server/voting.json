@@ -169,10 +169,6 @@
       "mapName": "Replicant Road"
     },
     {
-      "displayName": "Ghostbusters!V2",
-      "mapName": "Ghostbusters!V2"
-    },
-    {
       "displayName": "Laser Tag Arena",
       "mapName": "Laser Tag Arena"
     },
@@ -191,6 +187,10 @@
     {
       "displayName": "Driver Classic",
       "mapName": "Driver Classic"
+    },
+    {
+      "displayName": "Tokyo Drift",
+      "mapName": "Tokyo Drift"
     }
   ],
   "Types": [
@@ -811,6 +811,20 @@
       ],
       "displayName": "Skycastle Plus",
       "typeName": "Skycastle Plus"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Tokyo Drift",
+          "mapName": "Tokyo Drift"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Initial D",
+      "typeName": "Initial D"
     }
   ]
 }
