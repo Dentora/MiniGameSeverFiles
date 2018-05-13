@@ -137,10 +137,6 @@
       "mapName": "Duck Hunt Arena"
     },
     {
-      "displayName": "The Train",
-      "mapName": "The Train"
-    },
-    {
       "displayName": "Halo",
       "mapName": "Halo"
     },
@@ -191,6 +187,14 @@
     {
       "displayName": "Tokyo Drift",
       "mapName": "Tokyo Drift"
+    },
+    {
+      "displayName": "Facing Worlds",
+      "mapName": "Facing Worlds"
+    },
+    {
+      "displayName": "Blood Gulch v2",
+      "mapName": "Blood Gulch v2"
     }
   ],
   "Types": [
@@ -658,20 +662,6 @@
     {
       "SpecificMaps": [
         {
-          "displayName": "The Train",
-          "mapName": "The Train"
-        }
-      ],
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "The Train",
-      "typeName": "The Train"
-    },
-    {
-      "SpecificMaps": [
-        {
           "displayName": "Duck Hunt Arena",
           "mapName": "Duck Hunt Arena"
         }
@@ -825,6 +815,34 @@
       ],
       "displayName": "Initial D",
       "typeName": "Initial D"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Facing Worlds",
+          "mapName": "Facing Worlds"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Unreal Flag",
+      "typeName": "Unreal Flag"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Blood Gulch v2",
+          "mapName": "Blood Gulch v2"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Team CTF",
+      "typeName": "Team CTF"
     }
   ]
 }
