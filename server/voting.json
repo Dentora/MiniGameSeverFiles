@@ -5,10 +5,6 @@
       "mapName": "Duck Hunt v2"
     },
     {
-      "displayName": "Infestation",
-      "mapName": "Infestation"
-    },
-    {
       "displayName": "Canopy",
       "mapName": "Canopy"
     },
@@ -195,6 +191,30 @@
     {
       "displayName": "Blood Gulch v2",
       "mapName": "Blood Gulch v2"
+    },
+    {
+      "displayName": "Pallet Castle",
+      "mapName": "Pallet Castle"
+    },
+    {
+      "displayName": "Mario Towers",
+      "mapName": "Mario Towers"
+    },
+    {
+      "displayName": "Avalanche Heavy",
+      "mapName": "Avalanche Heavy"
+    },
+    {
+      "displayName": "Sandtrap Heavy",
+      "mapName": "Sandtrap Heavy"
+    },
+    {
+      "displayName": "Standoff Heavy",
+      "mapName": "Standoff Heavy"
+    },
+    {
+      "displayName": "Valhalla Heavy",
+      "mapName": "Valhalla Heavy"
     }
   ],
   "Types": [
@@ -258,21 +278,6 @@
       ],
       "displayName": "Drive or Die",
       "typeName": "Drive or Die"
-    },
-    {
-      "SpecificMaps": [
-        {
-          "displayName": "Infestation",
-          "mapName": "Infestation"
-        }
-      ],
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Pest Control",
-      "typeName": "Pest Control"
     },
     {
       "SpecificMaps": [
@@ -835,14 +840,58 @@
         {
           "displayName": "Blood Gulch v2",
           "mapName": "Blood Gulch v2"
+        },
+        {
+          "displayName": "Avalanche Heavy",
+          "mapName": "Avalanche Heavy"
+        },
+        {
+          "displayName": "Sandtrap Heavy",
+          "mapName": "Sandtrap Heavy"
+        },
+        {
+          "displayName": "Standoff Heavy",
+          "mapName": "Standoff Heavy"
+        },
+        {
+          "displayName": "Valhalla Heavy",
+          "mapName": "Valhalla Heavy"
         }
       ],
       "commands": [
         "Server.SprintEnabled 0",
         "Server.NumberOfTeams 2"
       ],
-      "displayName": "Team CTF",
-      "typeName": "Team CTF"
+      "displayName": "Big Team Slayer",
+      "typeName": "Big Team Slayer"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pallet Castle",
+          "mapName": "Pallet Castle"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Pallet Wars",
+      "typeName": "Pallet Wars"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Mario Towers",
+          "mapName": "Mario Towers"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Tower Defense",
+      "typeName": "Tower Defense"
     }
   ]
 }
