@@ -5,10 +5,6 @@
       "mapName": "Duck Hunt v2"
     },
     {
-      "displayName": "Infestation",
-      "mapName": "Infestation"
-    },
-    {
       "displayName": "Canopy",
       "mapName": "Canopy"
     },
@@ -39,10 +35,6 @@
     {
       "displayName": "Infested House",
       "mapName": "Infested House"
-    },
-    {
-      "displayName": "Neurotoxicity 2",
-      "mapName": "Neurotoxicity 2"
     },
     {
       "displayName": "Laser Tag - Pit",
@@ -121,10 +113,6 @@
       "mapName": "Siege v2.0"
     },
     {
-      "displayName": "Joust! V1",
-      "mapName": "Joust! V1"
-    },
-    {
       "displayName": "Train Wreck",
       "mapName": "Train Wreck"
     },
@@ -137,20 +125,12 @@
       "mapName": "Duck Hunt Arena"
     },
     {
-      "displayName": "The Train",
-      "mapName": "The Train"
-    },
-    {
       "displayName": "Halo",
       "mapName": "Halo"
     },
     {
       "displayName": "Kiddie Lane",
       "mapName": "Kiddie Lane"
-    },
-    {
-      "displayName": "Left4Dead_Day",
-      "mapName": "Left4Dead_Day"
     },
     {
       "displayName": "Left4Dead_Night",
@@ -163,14 +143,6 @@
     {
       "displayName": "LSD Race Track",
       "mapName": "LSD Race Track"
-    },
-    {
-      "displayName": "Replicant Road",
-      "mapName": "Replicant Road"
-    },
-    {
-      "displayName": "Ghostbusters!V2",
-      "mapName": "Ghostbusters!V2"
     },
     {
       "displayName": "Laser Tag Arena",
@@ -189,8 +161,40 @@
       "mapName": "Ground Zero V3"
     },
     {
-      "displayName": "Driver Classic",
-      "mapName": "Driver Classic"
+      "displayName": "Tokyo Drift",
+      "mapName": "Tokyo Drift"
+    },
+    {
+      "displayName": "Facing Worlds",
+      "mapName": "Facing Worlds"
+    },
+    {
+      "displayName": "Blood Gulch",
+      "mapName": "Blood Gulch"
+    },
+    {
+      "displayName": "Pallet Castle",
+      "mapName": "Pallet Castle"
+    },
+    {
+      "displayName": "Mario Towers",
+      "mapName": "Mario Towers"
+    },
+    {
+      "displayName": "Avalanche Heavy",
+      "mapName": "Avalanche Heavy"
+    },
+    {
+      "displayName": "Sandtrap Heavy",
+      "mapName": "Sandtrap Heavy"
+    },
+    {
+      "displayName": "Standoff Heavy",
+      "mapName": "Standoff Heavy"
+    },
+    {
+      "displayName": "Valhalla Heavy",
+      "mapName": "Valhalla Heavy"
     }
   ],
   "Types": [
@@ -241,10 +245,6 @@
         {
           "displayName": "Drive or Die+",
           "mapName": "Drive or Die+"
-        },
-        {
-          "displayName": "Driver Classic",
-          "mapName": "Driver Classic"
         }
       ],
       "commands": [
@@ -254,21 +254,6 @@
       ],
       "displayName": "Drive or Die",
       "typeName": "Drive or Die"
-    },
-    {
-      "SpecificMaps": [
-        {
-          "displayName": "Infestation",
-          "mapName": "Infestation"
-        }
-      ],
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Pest Control",
-      "typeName": "Pest Control"
     },
     {
       "SpecificMaps": [
@@ -378,21 +363,6 @@
       ],
       "displayName": "Exterminator",
       "typeName": "Exterminator"
-    },
-    {
-      "SpecificMaps": [
-        {
-          "displayName": "Neurotoxicity",
-          "mapName": "Neurotoxicity"
-        }
-      ],
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Neurotoxicity",
-      "typeName": "Neurotoxicity"
     },
     {
       "SpecificMaps": [
@@ -630,20 +600,6 @@
     {
       "SpecificMaps": [
         {
-          "displayName": "Joust! V1",
-          "mapName": "Joust! V1"
-        }
-      ],
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "Jousting GM",
-      "typeName": "Jousting GM"
-    },
-    {
-      "SpecificMaps": [
-        {
           "displayName": "Train Wreck",
           "mapName": "Train Wreck"
         }
@@ -654,20 +610,6 @@
       ],
       "displayName": "Train Wreck",
       "typeName": "Train Wreck"
-    },
-    {
-      "SpecificMaps": [
-        {
-          "displayName": "The Train",
-          "mapName": "The Train"
-        }
-      ],
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "displayName": "The Train",
-      "typeName": "The Train"
     },
     {
       "SpecificMaps": [
@@ -714,10 +656,6 @@
     {
       "SpecificMaps": [
         {
-          "displayName": "Left4Dead_Day",
-          "mapName": "Left4Dead_Day"
-        },
-        {
           "displayName": "Left4Dead_Night",
           "mapName": "Left4Dead_Night"
         }
@@ -755,20 +693,6 @@
       ],
       "displayName": "LSD Race",
       "typeName": "LSD Race"
-    },
-    {
-      "SpecificMaps": [
-        {
-          "displayName": "Replicant Road",
-          "mapName": "Replicant Road"
-        }
-      ],
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.NumberOfTeams 8"
-      ],
-      "displayName": "RocketRacetrack(16)",
-      "typeName": "RocketRacetrack"
     },
     {
       "SpecificMaps": [
@@ -811,6 +735,102 @@
       ],
       "displayName": "Skycastle Plus",
       "typeName": "Skycastle Plus"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Tokyo Drift",
+          "mapName": "Tokyo Drift"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Initial D",
+      "typeName": "Initial D"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Facing Worlds",
+          "mapName": "Facing Worlds"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Unreal Flag",
+      "typeName": "Unreal Flag"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Avalanche Heavy",
+          "mapName": "Avalanche Heavy"
+        },
+        {
+          "displayName": "Sandtrap Heavy",
+          "mapName": "Sandtrap Heavy"
+        },
+        {
+          "displayName": "Standoff Heavy",
+          "mapName": "Standoff Heavy"
+        },
+        {
+          "displayName": "Valhalla Heavy",
+          "mapName": "Valhalla Heavy"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Big Team Slayer",
+      "typeName": "Big Team Slayer"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Pallet Castle",
+          "mapName": "Pallet Castle"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Pallet Wars",
+      "typeName": "Pallet Wars"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Mario Towers",
+          "mapName": "Mario Towers"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Tower Defense",
+      "typeName": "Tower Defense"
+    },
+    {
+      "SpecificMaps": [
+        {
+          "displayName": "Blood Gulch",
+          "mapName": "Blood Gulch"
+        }
+      ],
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "displayName": "Team CTF",
+      "typeName": "Team CTF"
     }
   ]
 }
